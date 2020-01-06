@@ -16,5 +16,25 @@ namespace BattleShip_Game
         {
             InitializeComponent();
         }
+
+        private void playerPicksPosition(object sender, EventArgs e)
+        {
+
+        }
+
+        private void attackEnemyPosition(object sender, EventArgs e)
+        {
+
+        }
+
+        private void enemyAttackPlayer(object sender, EventArgs e)
+        {
+
+        }
+
+        private void enemyPicksPositions(object sender, EventArgs e)
+        {
+
+        }
     }
 }
